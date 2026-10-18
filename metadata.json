@@ -1,0 +1,6 @@
+{
+  "name": "Earth Return: AI Robot Sorting Odyssey",
+  "description": "Game khoa học viễn tưởng trở lại Trái Đất cùng Robot AI thông minh. Chinh phục 3 thuật toán sắp xếp lõi năng lượng: Bọt nổi, Chọn trực tiếp, Chèn trực tiếp với chế độ Sắp xếp Tự Động và Sắp xếp AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
